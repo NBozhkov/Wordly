@@ -1,2 +1,2 @@
 # Wordly
-## The Ultimate Word Check Helper
+## The Ultimate Helper for Learning Words
