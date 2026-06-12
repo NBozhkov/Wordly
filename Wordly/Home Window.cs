@@ -7,6 +7,8 @@ namespace Wordly
         public Home_Window()
         {
             InitializeComponent();
+
+
         }
 
         private void Home_Window_Load(object sender, EventArgs e)
@@ -16,6 +18,9 @@ namespace Wordly
             {
                 backPnl.AutoScrollPosition = new Point(0, 0);
             });
+
+
+
         }
     }
 }

@@ -1,3 +1,8 @@
-2026/06/12-00:41:16.002 2660 Reusing MANIFEST D:\Programming\Visual Studio\Solutions\Wordly\net8.0-windows\Wordly.exe.WebView2\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
-2026/06/12-00:41:16.004 2660 Recovering log #6
-2026/06/12-00:41:16.004 2660 Reusing old log D:\Programming\Visual Studio\Solutions\Wordly\net8.0-windows\Wordly.exe.WebView2\EBWebView\Default\Site Characteristics Database/000006.log 
+2026/06/12-15:04:04.921 637c Reusing MANIFEST D:\Programming\Visual Studio\Solutions\Wordly\Working release here\Wordly.exe.WebView2\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2026/06/12-15:04:04.922 637c Recovering log #3
+2026/06/12-15:04:04.922 637c Level-0 table #3: started
+2026/06/12-15:04:04.923 637c Level-0 table #3: 385 bytes OK
+2026/06/12-15:04:04.923 637c Recovering log #6
+2026/06/12-15:04:04.924 637c Reusing old log D:\Programming\Visual Studio\Solutions\Wordly\Working release here\Wordly.exe.WebView2\EBWebView\Default\Site Characteristics Database/000006.log 
+2026/06/12-15:04:04.925 637c Delete type=0 #3
+2026/06/12-15:04:04.925 637c Delete type=2 #4
